@@ -25,7 +25,7 @@ print("Exercise 2-2\n")
 # Practice using the Python interpreter as a calculator:
 #
 # Question 1
-# 1.The volume of a sphere with radius r is (4/3)πr^3. What is the volume of a
+# 1.The volume of a sphere with radius r is (4/3)pir^3. What is the volume of a
 # sphere with radius 5?
 #
 answer1=False

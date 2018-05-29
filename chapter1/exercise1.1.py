@@ -28,7 +28,7 @@ print("\nExercise 1-1\n")
 # the examples as you go.
 #
 # Whenever you are experimenting with a new feature, you should try to make mis‐
-# takes. For example, in the “Hello, world!” program, what happens if you leave 
+# takes. For example, in the "Hello, world!" program, what happens if you leave 
 # out one of the quotation marks? What if you leave out both? What if you spell
 # print wrong?
 #

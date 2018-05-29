@@ -27,7 +27,7 @@ print("\nExercise 2-1\n")
 # to see what goes wrong.
 #
 # Question 1
-# 1. We’ve seen that n = 42 is legal. What about 42 = n?
+# 1. We've seen that n = 42 is legal. What about 42 = n?
 #
 answer1=False
 print("Answer:\t{}\n".format(answer1))

@@ -5,7 +5,7 @@
 print("\nExercise 6.3\n")
 #
 # A palindrome is a word that is spelled the same backward and forward, like 
-# “noon” and “redivider”. Recursively, a word is a palindrome if the first and 
+# "noon" and "redivider". Recursively, a word is a palindrome if the first and 
 # last letters are the same and the middle is a palindrome.
 #
 # The following are functions that take a string argument and return the first, 
@@ -20,7 +20,7 @@ print("\nExercise 6.3\n")
 # def middle(word):
 #     return word[1:-1]
 #
-# We’ll see how they work in Chapter 8.
+# We'll see how they work in Chapter 8.
 #
 # This allows you to use the functions from palindrome.py for the two questions
 #

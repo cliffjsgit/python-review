@@ -31,7 +31,7 @@ print("Exercise 3-2\n")
 #     f()
 #     f()
 #
-# Here’s an example that uses do_twice to call a function named print_spam 
+# Here's an example that uses do_twice to call a function named print_spam 
 # twice:
 #
 # def print_spam():

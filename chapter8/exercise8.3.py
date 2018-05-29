@@ -5,7 +5,7 @@
 print("\nExercise 8.3\n")
 #
 # Question 1
-# 1. A string slice can take a third index that specifies the “step size”; that 
+# 1. A string slice can take a third index that specifies the "step size"; that 
 # is, the number of spaces between successive characters. A step size of 2 means
 # every other character; 3 means every third, etc.
 #
