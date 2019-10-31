@@ -28,9 +28,9 @@ into the solutions directory.  For example, using chapter1:
      ~/python-review/solutions (master)$ ls exercise1.1.py  exercise1.2.py
      ~/python-review/solutions (master)$ cd ..
      ~/python-review (master)$ cp chapter2/exercise* solutions/
+     ...
     
-
-Start with chapter 1 and work forward to chapter 8..
-Make sure you copy all of the exercise solutions into the solutions directory, 
-preserving their orignal names
+Start with chapter 1 and work forward to chapter 8.
+Make sure you that you copy all of the exercise solutions from all chapters 
+into the single solutions directory, preserving their orignal names
 
