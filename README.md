@@ -1,6 +1,6 @@
 #Python Review
 
-In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapters 1-8. Note that there are no exercises for Chapter 4! 
+In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapters 1-8. **Note that there are no exercises for Chapter 4!** 
 
 Start by cloning the Chapters 1-8 Exercises into you local repository.
      
@@ -15,13 +15,13 @@ Once you have cloned this repo, you may proceed to the labs.
      chapter1  chapter2  chapter3  chapter5  chapter6  chapter7  chapter8
     
 
-Create a solutions directory for you exercise solution, in the python-review directory.
+Create a solutions directory for you exercise solutions, in the python-review directory.
       
       ~/python-review (master)$ mkdir solutions
       
 
 Copy all of your final/completed lab solutions from all chapters 
-into the solutions directory.  For example, using chapter1:
+into the solutions directory.  For example, using chapter1 and chapter2:
 
      ~/python-review (master)$ cp chapter1/exercise*  solutions/
      ~/python-review (master)$ cd solutions/
@@ -33,7 +33,7 @@ into the solutions directory.  For example, using chapter1:
      ...
     
 Start with chapter 1 and work forward to chapter 8.
-Make sure that you copy all of the completed exercise solutions from 
-all chapters into the single solutions directory, preserving the orignal 
-file names. 
+Make sure that you copy all of your completed exercise solutions from 
+all chapters into your **single**  ~/python-review/solutions directory, 
+preserving the orignal file names. 
 
