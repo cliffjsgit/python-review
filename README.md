@@ -30,10 +30,13 @@ into the solutions directory.  For example, using chapter1 and chapter2:
      
      ~/python-review/solutions (master)$ cd ..
      ~/python-review (master)$ cp chapter2/exercise* solutions/
+     ~/python-review (master)$ cd solutions/
+     ~/python-review/solutions (master)$ ls
+     exercise1.1.py  exercise1.2.py  exercise2.1.py  exercise2.2.py
      ...
     
 Start with chapter 1 and work forward to chapter 8.
 Make sure that you copy all of your completed exercise solutions from 
-all chapters into your **single**  ~/python-review/solutions directory, 
-preserving the orignal file names. 
+all 8 chapters into your **single**  ~/python-review/solutions directory, 
+preserving the orignal file names in the solutions directory. 
 
